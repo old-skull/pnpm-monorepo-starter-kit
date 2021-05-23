@@ -1,0 +1,15 @@
+{
+  "name": "root",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Example of monorepo with pnpm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pnpm",
+    "monorepo",
+    "example"
+  ],
+  "license": "MIT"
+}
