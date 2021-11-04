@@ -1,5 +1,11 @@
-# project_name
+# pnpm-monorepo-starter-kit
 
-Replace `project_name` in all repo with your project name.
+[Pnpm](https://pnpm.io/) monorepo.
 
-Add new packages to the `packages` folder.
+## Structure 
+
+Every package in `packages` folder has its own package.json with deps, but all deps are stored at the root level.
+
+## Configuration
+
+You can configure monorepo using `.npmrc`. Here is the [list](https://pnpm.io/workspaces#options) of all the available options.
