@@ -4,7 +4,7 @@
 
 ## Structure 
 
-Every package in `packages` folder has its own package.json with deps, but all deps are stored at the root level.
+Each package in `packages` folder has its own package.json with deps, but all deps are stored at the root level.
 
 ## Configuration
 
